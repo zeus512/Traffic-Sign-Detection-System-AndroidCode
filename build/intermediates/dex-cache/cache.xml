@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/16b616334e436a915a7ff67ad5c14ce9d19a321f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/pre-dexed/debug/classes_e96715b2500d636d9ee9c7607787c2ac66e8e1b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/531462952a7ccc4c4105b360924c4b46fb620952/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/pre-dexed/debug/classes_5db9cd5dca660788fe43f75060fc27a296cadfb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_d63ebb8b2ffebdb2bbe84611b4a1cf4e37727195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f1823d4233fb11b922f35de8bd7b9433f8ee3328/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/pre-dexed/debug/classes_899f129b9b31f3cd591a4290a0ef3e38e2cc2f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a5aea4e9220549faa3fb84748f86d766ad5283ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/pre-dexed/debug/classes_7d77784913bbb7c08ea673f48cd97f5fdf7ee72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e1bd71cc2c41a2a2926725717a17e8c6ef4aeaf8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/pre-dexed/debug/classes_5ed907313185605b1aea2dbbd4c070460a103b07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Desktop/food/TrafficSignsDetection-master1/openCVLibrary2411/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6490ed0b67080cae491ba5286f235c2ec35c973">
+        <dex dex="/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/pre-dexed/debug/classes_5a9f173a3d6c94ffa5281febd025185c2fcce247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/35123776ee2bd1373358bfdc16962e36407bfb38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/pre-dexed/debug/classes_38ae585417410801dd45f2e6891afa3f9ef99c6c.jar" />
+    </item>
+
+</items>

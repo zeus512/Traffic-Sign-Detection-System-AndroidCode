@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout/camera_preview.xml",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/camera_preview.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/list_row.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout/photo_layout.xml",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/photo_layout.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/list_item.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/add_icon.png",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-mdpi/add_icon.png"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/search_icon.png",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-mdpi/search_icon.png"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/camera_icon.png",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-mdpi/camera_icon.png"
+    }
+]

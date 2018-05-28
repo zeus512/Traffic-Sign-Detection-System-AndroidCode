@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/raw_lbpcascade_frontalface.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/raw/lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout_list_row.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/list_row.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/raw_biennguyhiem.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/raw/biennguyhiem.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/raw_haarcascade_eye.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/raw/haarcascade_eye.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-mdpi_add_icon.png.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-mdpi/add_icon.png"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-mdpi_search_icon.png.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-mdpi/search_icon.png"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout_photo_layout.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/photo_layout.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/raw_cascade.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/raw/cascade.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/raw_bienbaocam.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/raw/bienbaocam.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/layout_camera_preview.xml.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/layout/camera_preview.xml"
+    },
+    {
+        "merged": "/root/Desktop/food/TrafficSignsDetection-master1/app/build/intermediates/res/merged/debug/drawable-mdpi_camera_icon.png.flat",
+        "source": "/root/Desktop/food/TrafficSignsDetection-master1/app/src/main/res/drawable-mdpi/camera_icon.png"
+    }
+]
